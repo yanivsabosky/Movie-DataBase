@@ -1,5 +1,5 @@
 Movie Collection Manager
-This Flask web application allows users to manage a collection of movies, including adding, editing, and deleting movies. It integrates with the Movie Database (TMDb) API to fetch movie information, and users can rate and review movies in their collection.
+this Flask web application allows users to manage a collection of movies, including adding, editing, and deleting movies. It integrates with the Movie Database (TMDb) API to fetch movie information, and users can rate and review movies in their collection.
 
 Features
 Add movies to your collection by searching for them via the Movie Database API.
